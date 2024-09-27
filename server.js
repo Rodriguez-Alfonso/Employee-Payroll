@@ -417,7 +417,7 @@ function removeDepartment() {
       type: 'list',
       name: 'departmentId',
       message:
-        'Which department would you like to remove?',
+        'Which department would you like to remove? ',
       choices: departmentChoices,
     })
       .then((res) => db.removeDepartment(res.departmentId))
@@ -506,6 +506,7 @@ function addEmployee() {
 
 // Exit the application
 function quit() {
+  console.log('Goodbye!');
   process.exit();
 }
 
