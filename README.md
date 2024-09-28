@@ -4,9 +4,7 @@
 
 
 
-![website-start]
 
-![website-input-entered]
 
 
 ## User Story
@@ -43,5 +41,5 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 ## Deployed Links
 
-This project is deployed through GitHubs own live pages:
+Video link: https://app.screencastify.com/v2/manage/videos/PtJKrQcpgjakHJkwz71i
 
